@@ -1,0 +1,11 @@
+name,industry,product,customers,website,location
+PayEase,HR Software,Payroll and employee benefits,Small and medium businesses,payease.example,San Francisco
+SkillBridge,HR Software,Employee training and learning,Small and medium businesses,skillbridge.example,Austin
+TalentDock,Recruitment Software,Applicant tracking and recruitment,HR teams and small businesses,talentdock.example,New York
+PeopleMetrics,HR Analytics,Workforce analytics and employee attendance,HR teams and small businesses,peoplemetrics.example,Boston
+LedgerLane,Finance Software,Accounting and invoicing,Small and medium businesses,ledgerlane.example,Seattle
+ShopCart,Commerce Software,Ecommerce storefront and inventory,Online retailers,shopcart.example,Austin
+CloudHarbor,Developer Tools,Cloud monitoring and developer API,Software engineering teams,cloudharbor.example,Seattle
+BenefitNest,HR Software,Employee benefits administration,Small and medium businesses,,Chicago
+PayEase Duplicate,HR Software,Payroll processing,Small businesses,payease.example,San Francisco
+MarketPilot,Marketing Software,Email marketing and CRM,Marketing teams,marketpilot.example,New York

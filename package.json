@@ -1,0 +1,1 @@
+{"name":"synergy-intelligence","version":"1.0.0","private":true,"description":"Explainable strategic-fit lead prioritization for SaaSquatch-style workflows","scripts":{"start":"node server.js","test":"node --test tests/*.test.js"},"engines":{"node":">=18"}}
